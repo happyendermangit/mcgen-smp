@@ -1,0 +1,13 @@
+ID_OF_CATEGORY:
+  name: "§5Name with minecraft colored codes"
+  description: "§8Name with minecraft colored codes."
+  icon: NETHERITE_PICKAXE
+  items:
+    id_of_item:
+      id: SPIGOT_MATERIEL_ID
+      amount: 1
+      price: 1
+    iron_axe:
+      id: IRON_AXE
+      amount: 1
+      price: 3
